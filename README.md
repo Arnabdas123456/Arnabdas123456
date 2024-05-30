@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnabdas123456&label=Profile%20views&color=0e75b6&style=flat" alt="arnabdas123456" /> </p>
 
-- 🌱 I’m currently learning **Mern Stack, Spring FrameWork**
+- 🌱 I’m currently learning **Mern Stack, Spring Boot**
 
 - 💬 Ask me about **Java, Python, React, etc....**
 
