@@ -16,7 +16,7 @@
         </a>
 </p>
 <div align="center" width="50%">
-    <b><p> Coding is my love language :) </p></b>
+    <b><p> Coding is my Therapy :) </p></b>
     <img src="lofiboy.gif" href="https://github.com/sp-xd" alt="CoDiNg RocKs" width="60%"
         style="border-radius: 20px;" />
     <br>
@@ -40,7 +40,7 @@
 <br>
 <div align="center">
     <!-- GitHub Trophies -->
-    <img src="https://github-profile-trophy.vercel.app/?username=skmirajulislam&theme=darkhub&column=9&margin-w=11"
+    <img src="https://github-profile-trophy.vercel.app/?username=Arnabdas123456&theme=darkhub&column=9&margin-w=11"
         alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
 </div>
 
