@@ -62,7 +62,7 @@
         </tr>
         <tr>
             <td><strong>Backend Development</strong></td>
-            <td><img height=40 src="https://skillicons.dev/icons?i=nodejs,express,flask,pandas,numpy,matplotlib&theme=dark"></td>
+            <td><img height=40 src="https://skillicons.dev/icons?i=nodejs,express,flask,nextjs&theme=dark"></td>
         </tr>
         <tr>
             <td><strong>Frameworks</strong></td>
