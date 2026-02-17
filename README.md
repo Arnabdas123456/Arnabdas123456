@@ -54,7 +54,7 @@
         </tr>
         <tr>
             <td><strong>Database Technologies</strong></td>
-            <td><img height=40 src="https://skillicons.dev/icons?i=mysql,mongodb,drizzle&theme=dark"></td>
+            <td><img height=40 src="https://skillicons.dev/icons?i=mysql,mongodb,orm&theme=dark"></td>
         </tr>
         <tr>
             <td><strong>Frontend Development</strong></td>
