@@ -2,7 +2,7 @@
         width="25px">
 </h1>
 <p align="center">
-    <a href="https://www.linkedin.com/in/arnab-das-42204b265//">
+    <a href="https://www.linkedin.com/in/arnab-das-42204b265">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
             alt="Arnab Das LinkedIn" height='20' width='90' />
     </a>
